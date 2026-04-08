@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Print Journal Entries Report in Odoo',
-    'version': '19.0.0.0',
+    'version': '0.0.1',
     'category': 'Accounting',
     'license': 'OPL-1',
     'summary': 'Allow to print pdf report of Journal Entries.',
