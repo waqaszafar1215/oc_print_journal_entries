@@ -24,6 +24,6 @@
     ],
     'installable': True,
     'auto_install': False,
-    "images":["static/description/Banner.gif"],
+    "images":["static/description/Banner.jpg"],
 }
 
